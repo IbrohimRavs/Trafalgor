@@ -1,0 +1,179 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@200;300;400;500;600;700;800;900;1000&display=swap');
+
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   list-style: none;
+   text-decoration: none;
+}
+
+.wrapper {
+   display: flex;
+}
+
+.doctor__logo {
+   margin-top: 135px;
+   margin-left: 240px;
+}
+
+li {
+   display: flex;
+}
+
+.list__item__one {
+   display: flex;
+   margin-top: 149px;
+   font-family: Mulish;
+   font-size: 18px;
+   font-weight: 700;
+   line-height: 23px;
+   letter-spacing: 0em;
+   text-align: left;
+   margin-left: 512px;
+   color: #1F1534;
+}
+
+.list__item__two {
+   font-family: Mulish;
+   font-size: 18px;
+   font-weight: 400;
+   line-height: 23px;
+   letter-spacing: 0em;
+   text-align: left;
+   margin-top: 149px;
+   margin-left: 40px;
+   color: #1F1534;
+}
+
+ul {
+   display: flex;
+}
+
+.list__item__three {
+   font-family: Mulish;
+   font-size: 18px;
+   font-weight: 400;
+   line-height: 23px;
+   letter-spacing: 0em;
+   text-align: left;
+   color: #1F1534;
+   margin-left: 40px;
+   margin-top: 149px;
+}
+
+.list__item__four {
+   font-family: Mulish;
+   font-size: 18px;
+   font-weight: 400;
+   line-height: 23px;
+   letter-spacing: 0em;
+   text-align: left;
+   color: #1F1534;
+   margin-top: 149px;
+   margin-left: 40px;
+}
+
+.list__item__five {
+   font-family: Mulish;
+   font-size: 18px;
+   font-weight: 400;
+   line-height: 23px;
+   letter-spacing: 0em;
+   text-align: left;
+   color: #1F1534;
+   margin-top: 149px;
+   margin-left: 40px;
+}
+
+.virtual__text__one {
+   margin-top: 90px;
+   font-family: Mulish;
+   font-size: 48px;
+   font-weight: 700;
+   line-height: 56px;
+   letter-spacing: 0em;
+   text-align: left;
+   max-width: 427px;
+   color: #000000;
+   margin-top: 190px;
+   margin-left: 246px;
+}
+
+.virtual__text__two {
+   font-family: Mulish;
+   font-size: 21px;
+   font-weight: 300;
+   line-height: 32px;
+   letter-spacing: 0em;
+   text-align: left;
+   margin-top: 25px;
+   margin-left: 246px;
+   max-width: 445px;
+   color: #7D7987;
+}
+
+.virtual__button {
+   font-family: Mulish;
+   font-size: 18px;
+   font-weight: 700;
+   line-height: 60px;
+   letter-spacing: 0em;
+   text-align: left;
+   color: #ffff;
+   background: #458FF6;
+   margin-top: 48px;
+   margin-left: 246px;
+   border: 0px;
+   border-radius: 55px;
+   padding: 3px 40px 1px 40px;
+}
+
+.virtual__wrapper {
+   display: flex;
+}
+
+.virtual__image {
+   margin-left: 109px;
+}
+
+.virtual__image__one {
+   margin-top: 84px;
+   width: 693px;
+   height: 598px;
+}
+
+.service__text__one {
+   font-family: Mulish;
+   font-size: 36px;
+   font-weight: 700;
+   line-height: 56px;
+   letter-spacing: 0em;
+   text-align: left;
+   margin-top: 171px;
+   margin-left: 799px;
+
+}
+
+.service__text__two {
+   font-family: Mulish;
+   font-size: 18px;
+   font-weight: 300;
+   line-height: 30px;
+   letter-spacing: 0em;
+   text-align: center;
+   max-width: 952px;
+   margin-left: 427px;
+}
+
+.service__search{
+   border: 1px solid;
+   border-radius: 20px;
+   
+}
+
+.service__image__one{
+   margin-left: 381px;
+   margin-top: 132px;
+}
+
