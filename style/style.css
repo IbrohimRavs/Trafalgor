@@ -1,0 +1,14 @@
+*{
+   list-style: none;
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+.container{
+   width: 1313px;
+}
+
+.doctor__logo{
+   margin-left: 247px;
+}
