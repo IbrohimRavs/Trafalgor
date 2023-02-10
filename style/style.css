@@ -462,3 +462,21 @@ ul {
    letter-spacing: 0em;
    text-align: left;
 }
+
+.health__btn{
+   padding: 3px 51px 1px 51px;
+   border: 1px solid;
+   border-color: #458FF6;
+   border-radius: 55px;
+   background-color: #fff;
+   color: #458FF6;
+   cursor: pointer;
+   font-family: Mulish;
+   font-size: 18px;
+   font-weight: 700;
+   line-height: 60px;
+   letter-spacing: 0em;
+   text-align: left;
+   margin-left: 135px;
+   margin-top: 40px;
+}
